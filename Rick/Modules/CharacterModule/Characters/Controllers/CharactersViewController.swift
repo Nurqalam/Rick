@@ -128,7 +128,6 @@ class CharactersViewController: UIViewController, UISearchResultsUpdating, Chara
     }
 
 // MARK: - FilterParameters
-    // swiftlint:disable for_where
     private func applyFilterParameters() {
         charactersCollectionView.isFiltered = filterParameters.isFiltred
         charactersCollectionView.filteredCharactersArray = []
@@ -168,8 +167,6 @@ class CharactersViewController: UIViewController, UISearchResultsUpdating, Chara
     }
 
 // MARK: - UISearchResultsUpdating
-    // swiftlint:disable cyclomatic_complexity
-    // swiftlint:disable function_body_length
     func updateSearchResults(for searchController: UISearchController) {
         guard let text = searchController.searchBar.text else {return}
         if text != "" {
