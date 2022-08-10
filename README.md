@@ -9,7 +9,16 @@ A simple app using the [Rick and Morty API](https://rickandmortyapi.com) written
 - Pagination
 #
 
-![mainMenu](https://user-images.githubusercontent.com/96972423/183864388-4556cc74-c807-4a80-95fa-30b0b41ff0b8.png)
+<img width="250" alt="authVC" src=[https://user-images.githubusercontent.com/96972423/172055122-bc6ce7ec-8284-4d79-b9e4-947b96f06141.png](https://user-images.githubusercontent.com/96972423/183864388-4556cc74-c807-4a80-95fa-30b0b41ff0b8.png)> 
+
+<img width="250" alt="authVC" src=[https://user-images.githubusercontent.com/96972423/172055122-bc6ce7ec-8284-4d79-b9e4-947b96f06141.png](https://user-images.githubusercontent.com/96972423/183864388-4556cc74-c807-4a80-95fa-30b0b41ff0b8.png)> 
+
+<img width="250" alt="authVC" src=[https://user-images.githubusercontent.com/96972423/172055122-bc6ce7ec-8284-4d79-b9e4-947b96f06141.png](https://user-images.githubusercontent.com/96972423/183864388-4556cc74-c807-4a80-95fa-30b0b41ff0b8.png)> 
+
+<img width="250" alt="authVC" src=[https://user-images.githubusercontent.com/96972423/172055122-bc6ce7ec-8284-4d79-b9e4-947b96f06141.png](https://user-images.githubusercontent.com/96972423/183864388-4556cc74-c807-4a80-95fa-30b0b41ff0b8.png)> 
+
+<img width="250" alt="authVC" src=[https://user-images.githubusercontent.com/96972423/172055122-bc6ce7ec-8284-4d79-b9e4-947b96f06141.png](https://user-images.githubusercontent.com/96972423/183864388-4556cc74-c807-4a80-95fa-30b0b41ff0b8.png)> 
+
 ![chararcters](https://user-images.githubusercontent.com/96972423/183864431-489689a6-19da-4630-9920-7c254f239323.png)
 ![char](https://user-images.githubusercontent.com/96972423/183864449-43e2977f-1397-498e-8d65-9414c20870d4.png)
 ![filter](https://user-images.githubusercontent.com/96972423/183864471-06057128-5047-48ba-a7c0-238c4c41dd51.png)
